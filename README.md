@@ -1,9 +1,10 @@
 <h1 align="center">Hi 🐶, I'm Tiann-Dev</h1>
 <h3 align="center">Tetap Berkarya Walau Tidak Beguna.</h3>
+<img align="right" alt="Coding" Width="400" src="https://thumbs.gfycat.com/MemorableBetterCockroach-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiann-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tiann-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiann-dev" alt="tiann-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=tiann-dev" alt="tiann-dev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
